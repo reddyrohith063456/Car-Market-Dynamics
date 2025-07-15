@@ -2,7 +2,7 @@
 
 
 **Project Type:** Data Analytics | Dashboard Design | Exploratory Data Analysis  
-**Tools Used:** Tableau, Excel, CSV, Python (optional)
+**Tools Used:** Tableau, Microsoft Excel, CSV
 
 ---
 
